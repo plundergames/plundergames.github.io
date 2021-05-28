@@ -1,4 +1,16 @@
 unity.com, 1241434, DIRECT, 96cabb5fbdde37a7
+facebook.com, 1369067093475607, DIRECT, c3e20eee3f780d68
+
+adcolony.com, 801e49d1be83b5f9, RESELLER, 1ad675c9de6b5176
+pubmatic.com, 158060, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160456, RESELLER, 5d62403b186f2ace
+openx.com, 540679900, RESELLER, 6a698e2ec38604c6
+webeyemob.com, 70097, RESELLER
+appads.in, 106246, RESELLER
+indexexchange.com, 194080, RESELLER, 50b1c356f2c5c8fc
+bidmachine.io, 113, RESELLER
+rhythmone.com, 3630748062, RESELLER, a670c89d4a324e47
+video.unrulymedia.com, 3630748062, RESELLER, a670c89d4a324e47
 loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
 adcolony.com, 0a0f72cd66122f31, RESELLER, 1ad675c9de6b5176
 pokkt.com, 6246, RESELLER, c45702d9311e25fd
@@ -26,4 +38,3 @@ lemmatechnologies.com, 362, RESELLER
 google.com, pub-8487016398008147, RESELLER
 telaria.com, rwd19-1241434, RESELLER, 1a4e959a1b50034a
 tremorhub.com, rwd19-1241434, RESELLER, 1a4e959a1b50034a
-facebook.com, 1369067093475607, RESELLER, c3e20eee3f780d68
